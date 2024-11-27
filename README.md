@@ -1,4 +1,4 @@
-#networkin 
+#networking
 
 1) 	How to find IP address in Linux
      :Ip a
